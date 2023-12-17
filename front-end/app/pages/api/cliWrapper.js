@@ -1,5 +1,6 @@
 // Dotenv will allow us to access our environment variables so we can access our private key.
-require('dotenv').config();
+require('dotenv').config({ path: __dirname + '/../../../.env' });
+
 // This will allow us to run code in our CLI.
 const { exec } = require('child_process');
 

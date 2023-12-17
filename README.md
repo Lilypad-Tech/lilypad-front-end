@@ -18,6 +18,14 @@ npm install express
 npm install cors
 ``
 
+## Adding your private key
+
+To run jobs, you will need to provide the private key for the wallet that will be charged for each job. Create a .env file in the project folder. Paste in the following and replace <your-private-key-here>.
+
+``
+WEB3_PRIVATE_KEY=<your-private-key-here>
+``
+
 ## Running your front end
 
 Open two terminals and navigate to your app folder in both terminals. In one terminal start your server.

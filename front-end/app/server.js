@@ -1,4 +1,3 @@
-require('dotenv').config();
 // Express is a framework for APIs.
 const express = require('express');
 // Cors will allow our browser to interact with our command line.
