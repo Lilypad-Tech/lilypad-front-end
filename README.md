@@ -1,6 +1,11 @@
 # Lilypad front end
 This repository can be used as a starting point to create your own custom front end for a Lilypad network module. The front end is set to run with the SDXL module but can be modified to be used for any other module. 
 
+## Read the full tutorial!
+
+[Read the full tutorial here](https://blog.lilypadnetwork.org/setting-up-your-lilypad-front-end)
+
+
 ## Install Node packages
 ``
 npm install
