@@ -5,7 +5,7 @@ This repository can be used as a starting point to create your own custom front 
 
 [Read the full tutorial here](https://blog.lilypadnetwork.org/setting-up-your-lilypad-front-end)
 
-![Uploading feelessfrontend.gif…]()
+![feelessfrontend](https://github.com/Lilypad-Tech/lilypad-front-end/assets/12529822/92fcb140-f8e5-44d0-9d56-b243c4a251c3)
 
 
 ## Install Node packages
