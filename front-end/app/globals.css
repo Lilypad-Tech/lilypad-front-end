@@ -16,6 +16,10 @@
   }
 }
 
+textarea {
+  color: #000000;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
